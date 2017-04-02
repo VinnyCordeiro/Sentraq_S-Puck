@@ -1,7 +1,7 @@
 # Sentraq_S-Puck
 Let's make an April's Fool prank true!
 
-On April 1st, 2017, our friend Joshua Young from Sentraq announced the creation of the Sentraq S-Puck keyboard, a 21-switch circular keyboard.
+On April 1st, 2017, our friend Joshua Young from Sentraq announced the creation of the [Sentraq S-Puck keyboard](https://www.reddit.com/r/MechanicalKeyboards/comments/62wufr/teaser_sentraq_spuck/), a 21-switch circular keyboard.
 
 But the joke is too good to let it restricted to an April's Fool prank, so I'm going to make it real!
 
