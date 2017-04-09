@@ -1,0 +1,12 @@
+Part  Value                      Device                                        Package                 Description            Digi-Key code
+C1    4.7µ                       C-EUC0805K                                    C0805K                  CAPACITOR              1276-6462-1-ND
+C2    1µ                         C-EUC0805K                                    C0805K                  CAPACITOR              311-1457-1-ND
+C3,C4 8p                         C-EUC0805K                                    C0805K                  CAPACITOR              1276-2556-1-ND
+JP1   USB-MB-H                   USB-MB-H                                      USB-MB-H                USB Connector          WM17115-ND
+R1,R2 22                         R-US_R0805W                                   R0805W                  RESISTOR               RMCF0805JT22R0CT-ND
+R3,R4 10k                        R-US_R0805W                                   R0805W                  RESISTOR               311-10KARCT-ND
+S1                               10-XX                                         B3F-10XX                TACTILE SWITCH         679-2428-ND
+U1    ATMEGA32U4-AU              ATMEGA32U4-AU                                 QFP80P1200X1200X120-44N 8-bit Microcontroller  ATMEGA32U4-AU-ND
+Y1    16MHZ                      SMD-CRYSTAL-16MHZ-8PF-20PPM-40R(2P-5.0X3.2MM) X2-SMD-5.0X3.2X1.3MM    16MHz crystal          644-1187-2-ND
+
+All diodes are standard, through hole 1N4148.
